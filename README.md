@@ -1,4 +1,4 @@
-# Qiskit Certification Examples
+# Qiskit Certification Exam Tutorial
 
 A comprehensive collection of Jupyter notebooks covering the essential topics for Qiskit certification and quantum computing development with IBM's Qiskit framework.
 
@@ -91,8 +91,7 @@ Creating a virtual environment ensures isolated dependencies and reproducibility
 
 ```bash
 # Clone the repository
-git clone https://github.com/kibrahim757/qiskit_certification_examples.git
-cd qiskit_certification_examples
+git clone https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial.git
 
 # Create a virtual environment
 python -m venv qiskit_env
@@ -104,7 +103,7 @@ source qiskit_env/bin/activate
 # qiskit_env\Scripts\activate
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r qiskit_2x_certification_exam_tutorial/requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
@@ -116,11 +115,10 @@ If you prefer to install packages globally:
 
 ```bash
 # Clone the repository
-git clone https://github.com/kibrahim757/qiskit_certification_examples.git
-cd qiskit_certification_examples
+git clone https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial.git
 
 # Install dependencies
-pip install -r requirements.txt
+pip install -r qiskit_2x_certification_exam_tutorial/requirements.txt
 
 # Launch Jupyter Notebook
 jupyter notebook
